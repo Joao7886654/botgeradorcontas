@@ -1,0 +1,29 @@
+{
+    "token": "MUDE O TOKEN DO SEU BOT",
+    "prefix": ".",
+    "webhook": "black",
+    "mysql": {
+        "host": "127.0.0.1",
+        "user": "root",
+        "password": "",
+        "database": "leinad_bot"
+    },
+    "gerador_channel_stock": "1251542318062899251",
+    "gerador": [
+        {
+            "name": "free",
+            "cargo": "1230649727545245800",
+            "channel": "1251542318062899251"
+        },
+        {
+            "name": "boost",
+            "cargo": "1230649727545245800",
+            "channel": "1251542318062899251"
+        },
+        {
+            "name": "pago",
+            "cargo": "1230649727545245800",
+            "channel": "1251542318062899251"
+        }
+    ]
+}
