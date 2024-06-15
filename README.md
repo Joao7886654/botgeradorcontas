@@ -1,7 +1,7 @@
 # BOT DE GERADOR DE CONTAS
 100% FUNCIOANDO
 
-# MUDE..
+# CONFIGURE..
 ## Mude na parte: Config.json, Escolha os cargos e os canais que tenham acesso ao usar esse Tipo de Comando.
 ## Mude o Token do seu Bot.
 
